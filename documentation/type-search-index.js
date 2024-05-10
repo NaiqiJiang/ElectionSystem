@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Election","l":"Candidate"},{"p":"Election","l":"ClosedListElection"},{"p":"Election","l":"Election"},{"p":"Election","l":"ElectionManager"},{"p":"Election","l":"MPOMV"},{"p":"Election","l":"OpenListElection"},{"p":"Election","l":"Party"}];updateSearchResults();
